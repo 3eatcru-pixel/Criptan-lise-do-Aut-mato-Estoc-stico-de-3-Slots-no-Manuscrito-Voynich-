@@ -5,7 +5,8 @@
 **Contato:** 3eatcru@gmail.com  
 **Licença:** Creative Commons Attribution 4.0 International (CC-BY-4.0)  
 **Data:** Outubro de 2026  
-
+* **DOI Registrado**: Vinculado ao Zenodo (`10.5281/zenodo.23287068`).
+* **Pacote FAIR de Replicação (** **.zip** **)**: Com scripts Python 3.12 autônomos, datasets em CSV, relatórios de auditoria e hashes SHA-256 para auditoria de terceiros.
 ---
 
 ### 🏛️ Estrutura do Pacote
