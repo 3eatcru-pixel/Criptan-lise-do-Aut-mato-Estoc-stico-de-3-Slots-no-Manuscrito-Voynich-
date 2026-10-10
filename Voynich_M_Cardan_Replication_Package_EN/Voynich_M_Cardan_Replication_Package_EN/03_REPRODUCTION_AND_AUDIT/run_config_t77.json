@@ -1,0 +1,10 @@
+{
+  "test_id": "T77",
+  "model": "M_Cardan",
+  "corpus": "EVA_ZL3b",
+  "mc_permutations": 1000,
+  "folds": 5,
+  "delta_loss_bits": -0.06835532484153806,
+  "p_value_threshold": 0.001,
+  "air_gapped_execution": true
+}

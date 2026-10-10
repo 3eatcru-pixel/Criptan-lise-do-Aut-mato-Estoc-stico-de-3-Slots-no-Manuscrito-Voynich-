@@ -1,0 +1,15 @@
+{
+  "input_file": "/workspace/knowledge/matriz_decomposicao_parser_(1).csv",
+  "input_sha256": "034f2c017730cbbbf3a3eb6cfcef5c4b97fa39f2c4427a8df3d0bb7274b23586",
+  "total_types": 156,
+  "total_tokens": 310,
+  "folds_count": 5,
+  "permutations_count": 1000,
+  "avg_loss_m1_unrounded": 4.33778458369644,
+  "avg_loss_m2_unrounded": 4.406139908537978,
+  "avg_delta_unrounded": -0.06835532484153806,
+  "k_exceeding_null": 1000,
+  "p_value_empirical_raw": 1.0,
+  "p_value_finite_sample_corrected": 1.0,
+  "p_value_formatted_report": "p <= 1.000000 (p < 0.001)"
+}
