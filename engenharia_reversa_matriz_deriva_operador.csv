@@ -1,0 +1,12 @@
+Token_Canônico,Erro_Mecânico_Operador,Token_Anômalo_Gerado (Hapax),Distância_Levenshtein
+qokedy,Deslize S2 (e -> ee),qokeeedy,1
+qokaedy,Deslize S2 (a -> e),qokeedy,1
+chchdy,Deslize S2 (ch -> ckh),chckhdy,1
+shchedy,Deslize S2 (ch -> ckh),shckhedy,1
+qokeain,Deslize S2 (e -> ee),qokeeain,1
+oteaiin,Deslize S2 (e -> ee),oteeaiin,1
+cheedy,Deslize S2 (e -> ee),cheeedy,1
+qokckhy,Deslize S2 (ckh -> ckhe),qokckhey,1
+chlkdy,Deslize S2 (lk -> lke),chlkedy,1
+chidy,Deslize S2 (i -> ie),chiedy,1
+keaiin,Deslize S2 (e -> ee),keeaiin,1

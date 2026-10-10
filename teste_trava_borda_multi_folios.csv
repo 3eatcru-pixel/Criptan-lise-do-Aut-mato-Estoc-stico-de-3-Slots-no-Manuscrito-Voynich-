@@ -1,0 +1,5 @@
+Folio_Nome,Total_Tokens,Transições_Analisadas,Esparsidade_S3_S1 (%),Chi2_Transição,V_de_Cramér_InterToken,Entropia_S3_Bits,Perplexidade_PPL,Status_Trava_Borda
+f78r (Balneologia - Currier B),25,21,66.67,32.0,0.552,2.4515,5.47,🟡 Parcial
+f67r (Astronomia/Zodíaco - Rótulos),16,12,73.81,32.67,0.7379,2.4056,5.3,🟡 Parcial
+f2r (Herbal A - Currier A),21,17,82.95,70.95,0.7721,3.1962,9.17,🟢 Operacional (Trava Ativa)
+f103r (Receitas - Currier B),20,16,50.0,7.09,0.3842,2.1232,4.36,🟡 Parcial

@@ -1,0 +1,10 @@
+s2_core,total_labels,raizes_tuberosas_pct,folhas_serrilhadas_pct,flores_inflorescencias_pct,or_folhas,p_value,especificidade,or_raizes,or_flores,or_geral
+ch,310,12.5,68.2,19.3,3.85,0.0002,Alta para Folhas / Dentadas,,,
+ckh,285,74.1,15.2,10.7,,0.0001,Alta para Raízes / Tuberosas,5.12,,
+k,240,18.2,21.3,60.5,,0.0001,Alta para Flores / Terminais,,4.2,
+t,210,22.0,45.0,33.0,,0.421,Distribuída (Não-específica),,,1.15
+i,195,81.5,10.5,8.0,,0.0001,Exclusiva para Raízes (Eixo C3_AIN),6.8,,
+e,180,30.0,38.0,32.0,,0.85,Neutra / Conector de Corpo,,,0.98
+a,165,28.5,41.5,30.0,,0.79,Neutra / Conector de Corpo,,,1.02
+lk,120,11.0,76.5,12.5,4.9,0.0003,Alta para Folhas Compostas,,,
+ed,115,65.2,18.8,16.0,,0.0021,Afinidade por Raízes / Ancoragem,3.1,,
