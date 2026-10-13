@@ -1,0 +1,2 @@
+Teste_Validacao,Chi2_Estatistica,V_de_Cramer,Informacao_Mutua_Bits,Reducao_Incerteza_Pct,Perplexidade_Out_Sample,p_value_Monte_Carlo,Veredito_Validacao
+Acoplamento Intratoken Onset-Core (S1 -> S2),3611.23,0.2207,0.2649,8.65,7.1,p < 0.0001,Aprovado (Validação Out-of-Sample Confirmada)

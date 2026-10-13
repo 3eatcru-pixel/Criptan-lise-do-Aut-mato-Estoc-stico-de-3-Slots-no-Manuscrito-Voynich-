@@ -1,0 +1,5 @@
+Módulo_Temático,Linhas_Processadas,Tokens_Canônicos,Esparsidade_S3_S1 (%),Predominância_C2_EDY (%),Predominância_C3_AIN (%),CMI_AIN_EDY_Onset (bits),Entropia_Residual_SubBit (bits),PPL_Autômato_3Slots
+Seção Botânica A (Herbal A - Currier A),1250,12450,88.15,12.4,22.8,0.1852,0.8214,41.2
+Seção Botânica B (Herbal B - Currier B),680,5120,91.8,30.6,14.2,0.2012,0.7415,38.5
+Seção Balneológica B (Biológica - f75r-f84v),788,5502,92.45,38.2,18.5,0.2234,0.6982,33.4
+Seção Astronômica/Cosmológica (Currier B),540,4180,90.75,24.5,12.1,0.1945,0.7812,40.1

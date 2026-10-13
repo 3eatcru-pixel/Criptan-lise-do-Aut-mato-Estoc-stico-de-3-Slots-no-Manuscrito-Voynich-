@@ -1,0 +1,5 @@
+Secao,Tokens_Analisados,Types_Distintos,Esparsidade_Matriz_S3_S1,Predominancia_S3_EDY,Predominancia_S3_AIN,Entropia_Residual_H_SubBit,Informacao_Mutua_Total
+Botânica A (Currier A - P-Loci),12450,1840,88.15%,12.4%,22.8%,0.8214 bits,2.6102 bits
+Botânica A (Rótulos / Labels),1820,412,94.20%,4.8%,18.1%,0.4120 bits,3.1205 bits
+Botânica B (Currier B - f75r-f84v),5502,1120,91.80%,30.6%,14.2%,0.7415 bits,2.8795 bits
+Diferença (A vs B),-,-,-3.65 pp,-18.2 pp,+8.6 pp,+0.0799 bits,-0.2693 bits

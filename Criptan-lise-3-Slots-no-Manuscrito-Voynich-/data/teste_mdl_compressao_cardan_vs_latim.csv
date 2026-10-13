@@ -1,0 +1,3 @@
+Modelo_Candidato,Complexidade_Modelo_L_M (bits),Entropia_Codificação_Dados (bits/token),Comprimento_Total_Dados_L_D (bits),MDL_Total (bits),Veredito_MDL
+Língua Natural Criptografada (Cifra/Substituição),30000,7.2854,254989.0,284989.0,Rejeitado (Sobreposição Parâmetros/Ruído)
+Autômato M_Cardan (Estêncil 3 Slots + Posição),384,5.2943,185300.5,185684.5,Modelo Ótimo (Menor Comprimento de Descrição)

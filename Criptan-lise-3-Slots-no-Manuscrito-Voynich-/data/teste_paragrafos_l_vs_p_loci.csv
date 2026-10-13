@@ -1,0 +1,4 @@
+Locus_Tipo,Linhas_Amostradas,Tokens_Analisados,Esparsidade_S3_S1,Predominancia_Gallows_S1,Predominancia_C2_EDY,Entropia_Incondicional_H,Entropia_Residual_SubBit,Informacao_Mutua_S3_S1
+L-Loci (Início de Parágrafo),112,840,96.80%,42.5%,24.1%,3.8210 bits,0.3120 bits,3.5090 bits
+P-Loci (Corpo de Parágrafo),676,4662,91.70%,8.2%,40.8%,3.5120 bits,0.7240 bits,2.7880 bits
+Diferença (L vs P),-564,-3822,+5.10 pp,+34.3 pp,-16.7 pp,+0.3090 bits,-0.4120 bits,+0.7210 bits

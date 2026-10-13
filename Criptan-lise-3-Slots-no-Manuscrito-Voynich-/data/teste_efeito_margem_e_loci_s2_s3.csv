@@ -1,0 +1,4 @@
+Locus_Posição,Tokens_Analisados,Chi2_Estatística,V_de_Cramér,Entropia_Incondicional_H_S3,Entropia_Condicional_H_S3_S2,Informacao_Mutua_S2_S3 (bits),Reducao_Incerteza (%),Efeito_Margem
+M-Loci (Corpo Interno da Linha),6820,3186.58,0.2512,2.8945,2.5933,0.3012,10.41,Distribuição Aberta / Estabilidade Padrão
+E-Loci (Fim de Linha / Margem Direita),1420,1248.5,0.3852,2.154,1.7695,0.3845,17.85,Hiper-Atração de Fecho (S2_e/ee -> S3_eedy/edy)
+Diferença (E-Loci vs M-Loci),-5400,-1938.08,0.134,-0.7405,-0.8238,0.0833,7.44,Trava Mecânica de Bordo de Margem

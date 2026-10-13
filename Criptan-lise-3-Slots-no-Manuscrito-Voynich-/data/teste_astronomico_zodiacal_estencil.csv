@@ -1,0 +1,5 @@
+Locus_Tipo,Amostra_Tokens,Comprimento_Medio_Token,Esparsidade_Matriz_S3_S1 (%),Predominancia_Janela_S2_Curta (%),Entropia_Residual_H (bits),Perplexidade_PPL
+Texto de Parágrafo (P-Loci),5502,5.82,92.45,32.4,0.6982,33.4
+Rótulos Circulares (C-Loci),1240,3.85,97.8,84.6,0.285,18.2
+Nomes de Signos/Zodíaco (Z-Loci),890,3.92,98.45,89.2,0.215,15.1
+Rótulos de Estrelas/Graus (A-Loci),1420,3.65,96.9,81.5,0.312,19.8
