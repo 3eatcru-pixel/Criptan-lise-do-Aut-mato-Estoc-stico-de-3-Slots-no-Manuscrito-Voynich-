@@ -1,0 +1,4 @@
+Modelo_Mecanico,Cobertura_Tokens (%),Esparsidade_Matriz (%),Pares_Ativos,Espaço_Total_Pares,Entropia_Estados (bits),Veredito_Físico
+Grade Rígida Fixa (3 Janelas - Config A),71.61,62.09,69,182,6.1085,Parcialmente Limitado (Rejeita 28.4% de formas reais)
+Grelha Rotativa 4-Fases (Cardan 90° - Config B),88.39,78.45,112,520,6.8074,"Aumenta Cobertura, mas sobregera combinações inválidas"
+Estêncil Deslizante Regulado por Linha (M_Cardan - Config C),98.71,91.58,48,570,5.585,Modelo Ótimo (98.7% Cobertura com 91.6% Esparsidade)

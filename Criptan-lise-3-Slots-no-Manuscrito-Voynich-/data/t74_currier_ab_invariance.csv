@@ -1,0 +1,4 @@
+Dialeto,Esparsidade_Matriz_S3_S1 (%),Entropia_Incondicional_H(S3) (bits),"H(S3_next | S3_t, S2_t) (bits)","H(S3_next | S3_t, S2_t, Pos_t) (bits)",Informacao_Mutua_Total (bits),Conservacao_Perfis_S2_Meio (%),Conservacao_Perfis_S2_Fim (%)
+Currier A (Mão 1),89.42,3.4812,1.1105,0.7924,2.6888,98.12,82.5
+Currier B (Mão 2),92.15,3.621,0.9842,0.7415,2.8795,100.0,85.71
+Diferença (Δ A vs B),-2.73,-0.1398,0.1263,0.0509,-0.1907,-1.88,-3.21
